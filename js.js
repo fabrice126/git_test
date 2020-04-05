@@ -6,4 +6,5 @@
 6;
 7(async () => {
   console.log("test");
+  console.log("test2");
 })();
